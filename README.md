@@ -88,7 +88,7 @@ Durante a EDA, os dados foram revelando mais informações que ao investigar con
 
 --
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto possui dois arquivos principais:
 - Um notebook onde é mostrado passo a passo a análise, explicando insights que conseguimos e decisões tomadas em cada etapa
