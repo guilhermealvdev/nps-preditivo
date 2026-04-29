@@ -96,15 +96,15 @@ O projeto possui dois arquivos principais:
 
 ### Estrutura de Pastas:
 
-.
-├── data/
-│ └── desafio_nps_fase_1.csv
-├── notebooks/
-│ └── eda.ipynb
-├── reports/
-│ └── slide/
-│   └── apresentacao_slides.pptx 
-├── src/
-├── README.md
-├── .gitignore
-└── requirements.txt
+.<br>
+├── data/<br>
+│ └── desafio_nps_fase_1.csv<br>
+├── notebooks/<br>
+│ └── eda.ipynb<br>
+├── reports/<br>
+│ └── slide/<br>
+│   └── apresentacao_slides.pptx<br>
+├── src/<br>
+├── README.md<br>
+├── .gitignore<br>
+└── requirements.txt<br>
